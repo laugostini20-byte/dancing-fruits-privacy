@@ -1,12 +1,12 @@
-# Privacy Policy for Dancing Fruits
+# Privacy Policy for Dance Fruit Dance
 
 **Effective Date:** January 29, 2026  
 **Developer:** Louis Augostini  
 
-Dancing Fruits is a child-friendly app designed for entertainment and learning. Protecting user privacy is extremely important to us.
+Dance Fruit Dance is a child-friendly app designed for entertainment and learning. Protecting user privacy is extremely important to us.
 
 ## Information We Collect
-Dancing Fruits does not collect, store, or share any personal information.
+Dance Fruit Dance does not collect, store, or share any personal information.
 
 The app:
 - Does not require account creation
@@ -15,7 +15,7 @@ The app:
 - Does not track users across apps or websites
 
 ## In-App Purchases
-Dancing Fruits offers optional in-app purchases to unlock additional content.
+Dance Fruit Dance offers optional in-app purchases to unlock additional content.
 
 - Purchases are processed securely through Apple’s App Store
 - RevenueCat is used to manage in-app purchases
@@ -23,7 +23,7 @@ Dancing Fruits offers optional in-app purchases to unlock additional content.
 - No personal or identifiable information is collected by the developer
 
 ## Children’s Privacy
-Dancing Fruits complies with COPPA and does not knowingly collect personal information from children.
+Dance Fruit Dance complies with COPPA and does not knowingly collect personal information from children.
 
 ## Third-Party Services
 - Apple App Store (payments)
